@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713754632907",
+    "firebase_url": "https://lojaflutter-efcbb.firebaseio.com",
+    "project_id": "lojaflutter-efcbb",
+    "storage_bucket": "lojaflutter-efcbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713754632907:android:d66ff6cc8e894d3f81314e",
+        "android_client_info": {
+          "package_name": "com.app.alesrangel.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713754632907-mi6o50c4osh9aeipaj456e875jkeaisi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUUyWdodrB6PHL2VEvp6wvtgEzECwoX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713754632907-mi6o50c4osh9aeipaj456e875jkeaisi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
